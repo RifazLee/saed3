@@ -1,0 +1,7 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+spglib==2.5.0
+pydantic==2.10.4
+numpy>=1.26
+gemmi==0.7.3
+abtem==1.0.11
